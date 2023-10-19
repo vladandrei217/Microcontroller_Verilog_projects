@@ -1,0 +1,8 @@
+{C:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v} {1 {vlog -work work -stats=none {C:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module cafea
+
+Top level modules:
+	cafea
+
+} {} {}}

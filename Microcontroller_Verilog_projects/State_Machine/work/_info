@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/FAC A2/SEM 2/CID/Lab/ATM
+vtbtestatm
+!s110 1621324052
+!i10b 1
+!s100 `Q3O_ja@EjS:U0eZW26Nk2
+I]j4Mk322fBQaTM4f8z9i:1
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/FAC A2/SEM 2/CID/Lab/Test 2
+w1621324046
+8C:/FAC A2/SEM 2/CID/Lab/Test 2/tbtestatm.v
+FC:/FAC A2/SEM 2/CID/Lab/Test 2/tbtestatm.v
+L0 3
+Z2 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1621324052.378000
+!s107 C:/FAC A2/SEM 2/CID/Lab/Test 2/tbtestatm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FAC A2/SEM 2/CID/Lab/Test 2/tbtestatm.v|
+!i113 1
+Z3 o-work work
+vtestatm
+!s110 1621324345
+!i10b 1
+!s100 Ah_U;8P7J=ci_@MfNj]jF0
+I>XC`bljVU_obTC0VWhbNR1
+R0
+R1
+w1621324340
+8C:/FAC A2/SEM 2/CID/Lab/Test 2/testatm.v
+FC:/FAC A2/SEM 2/CID/Lab/Test 2/testatm.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1621324345.633000
+!s107 C:/FAC A2/SEM 2/CID/Lab/Test 2/testatm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FAC A2/SEM 2/CID/Lab/Test 2/testatm.v|
+!i113 1
+R3

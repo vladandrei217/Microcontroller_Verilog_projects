@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/FAC A2/SEM 2/CID/Lab/Test 2
+vcafea
+!s110 1621493161
+!i10b 1
+!s100 43`[6;9@<iU]ICOj_dAN`0
+IDDk?i3EFSLQC98z4hez<b1
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/FAC A2/SEM 2/CID/Lab/Testf
+w1621493156
+8C:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v
+FC:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v
+L0 1
+Z2 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1621493161.568000
+!s107 C:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FAC A2/SEM 2/CID/Lab/Testf/cafea.v|
+!i113 1
+Z3 o-work work
+vtestcafea
+!s110 1621494140
+!i10b 1
+!s100 YX1lVHAfEfh1bZmHZbOVf1
+I:DdRC:MC@g34giPPQL9ki1
+R0
+R1
+w1621494129
+8C:/FAC A2/SEM 2/CID/Lab/Testf/testcafea.v
+FC:/FAC A2/SEM 2/CID/Lab/Testf/testcafea.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1621494140.100000
+!s107 C:/FAC A2/SEM 2/CID/Lab/Testf/testcafea.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FAC A2/SEM 2/CID/Lab/Testf/testcafea.v|
+!i113 1
+R3
